@@ -1,13 +1,13 @@
 {
-  "main.css": "/denyacutno/denyacutno.github.io.git/static/css/main.9b2fff11.chunk.css",
-  "main.js": "/denyacutno/denyacutno.github.io.git/static/js/main.cf75e17a.chunk.js",
-  "main.js.map": "/denyacutno/denyacutno.github.io.git/static/js/main.cf75e17a.chunk.js.map",
-  "static/js/1.5d8ef78b.chunk.js": "/denyacutno/denyacutno.github.io.git/static/js/1.5d8ef78b.chunk.js",
-  "static/js/1.5d8ef78b.chunk.js.map": "/denyacutno/denyacutno.github.io.git/static/js/1.5d8ef78b.chunk.js.map",
-  "runtime~main.js": "/denyacutno/denyacutno.github.io.git/static/js/runtime~main.7ce6b688.js",
-  "runtime~main.js.map": "/denyacutno/denyacutno.github.io.git/static/js/runtime~main.7ce6b688.js.map",
-  "static/css/main.9b2fff11.chunk.css.map": "/denyacutno/denyacutno.github.io.git/static/css/main.9b2fff11.chunk.css.map",
-  "index.html": "/denyacutno/denyacutno.github.io.git/index.html",
-  "precache-manifest.97add9c4c91b5985442575c970b3104d.js": "/denyacutno/denyacutno.github.io.git/precache-manifest.97add9c4c91b5985442575c970b3104d.js",
-  "service-worker.js": "/denyacutno/denyacutno.github.io.git/service-worker.js"
+  "main.css": "/static/css/main.2a433f64.chunk.css",
+  "main.js": "/static/js/main.5b64ff84.chunk.js",
+  "main.js.map": "/static/js/main.5b64ff84.chunk.js.map",
+  "static/js/1.73283069.chunk.js": "/static/js/1.73283069.chunk.js",
+  "static/js/1.73283069.chunk.js.map": "/static/js/1.73283069.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.2a433f64.chunk.css.map": "/static/css/main.2a433f64.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.8062b29e53b3b2a0572f77fa39d19f5a.js": "/precache-manifest.8062b29e53b3b2a0572f77fa39d19f5a.js",
+  "service-worker.js": "/service-worker.js"
 }
